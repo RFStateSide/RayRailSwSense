@@ -1,0 +1,26 @@
+RayRailSwSense — RF StateSide LLC
+Copyright RF StateSide LLC.
+SPDX-License-Identifier: CERN-OHL-P-2.0
+
+Original RF StateSide hardware contributions and associated engineering source
+documentation are provided under CERN Open Hardware Licence Version 2 —
+Permissive. Retain LICENSE, this NOTICE and applicable third-party notices.
+
+Public Engineering Reference — AS-IS. No certification, guaranteed operating
+rating, guaranteed protection, fitness, future development or technical support
+is promised. The license governs its warranty and liability provisions.
+
+Modification record: 2026-10-12, P2-prep-01. Prepared standalone sources from
+the redesigned DcSwSense project. Localized working CAD definitions; set U1 to
+the owner-confirmed BTH500301LUAAUMA1 population, R4 to 2 kohm, and FB1 procurement
+to 490-1056-1-ND. Reconciled metadata, footprint references and 2 oz fabrication
+stackup; corrected misleading rating text; assigned H1–H4 to board-only mounting
+features; removed optional models and an obsolete embedded vendor PDF.
+Copper, pads, drilling, placement and routing are retained. Changed silkscreen
+and regenerated manufacturing files distinguish this package from the original
+PCBWay submission. P2-prep-01 has not been separately fabricated or tested.
+
+The owner created the project-specific symbols and custom footprints.
+Stock KiCad definitions and retained upstream elements have separate terms.
+See docs/provenance.md and hardware/libraries/README.md.
+This notice does not license unrelated firmware, supplier records or vendor assets.

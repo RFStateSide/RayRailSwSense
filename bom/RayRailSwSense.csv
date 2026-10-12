@@ -1,0 +1,16 @@
+Designator,Quantity,Value,Footprint,MPN,Manufacturer,Supplier,Supplier_PN,Mount_Type,Assembly_note
+C1,1,.1 µF,RayRailSwSense:Capacitor_SMD_C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,CL21B104KBCNFNC,Samsung,DigiKey,1276-2444-1-ND,smt,Procurement reference; exact historical fitted identity not independently confirmed
+C2,1,.01 µF,RayRailSwSense:Capacitor_SMD_C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,CL21B103KDCNNNC,Samsung,DigiKey,1276-1170-1-ND,smt,Procurement reference; exact historical fitted identity not independently confirmed
+D1,1,SMCJ85A,RayRailSwSense:MyFootprints_DIOM7959X262N,SMCJ85A,Littelfuse,DigiKey,SMCJ85ABCT-ND,smt,Procurement reference; exact historical fitted identity not independently confirmed
+F1,1,178.6165.0002,RayRailSwSense:MyFootprints_FUSE_178.6165.0002_LTF,178.6165.0002,Littelfuse,DigiKey,WK6265-ND,tht,"Holder only; tested fuse was 25 A 32 VDC automotive type, manufacturer/curve unrecorded"
+FB1,1,BLM31PG121SN1L,RayRailSwSense:Inductor_SMD_L_0805_2012Metric_Pad1.15x1.40mm_HandSolder,BLM31PG121SN1L,Murata Electronics,DigiKey,490-1056-1-ND,smt,Owner-confirmed 1206 part on retained 0805 lands; fit is not a standard land-pattern claim
+J1,1,74650074R,RayRailSwSense:MyFootprints_CONN_74650074R_WRE,74650074R,Würth Elektronik,DigiKey,732-74650074RCT-ND,tht,Procurement reference; exact historical fitted identity not independently confirmed
+J2,1,74650074R,RayRailSwSense:MyFootprints_CONN_74650074R_WRE,74650074R,Würth Elektronik,DigiKey,732-74650074RCT-ND,tht,Procurement reference; exact historical fitted identity not independently confirmed
+J3,1,Screw_Terminal_01x06,RayRailSwSense:TerminalBlock_TE-Connectivity_TerminalBlock_TE_282834-6_1x06_P2.54mm_Horizontal,282834-6,TE,DigiKey,A98337-ND,tht,Procurement reference; exact historical fitted identity not independently confirmed
+R1,1,4.7K,RayRailSwSense:Resistor_SMD_R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805FT4K70,Stackpole,DigiKey,RMCF0805FT4K70CT-ND,smt,Procurement reference; exact historical fitted identity not independently confirmed
+R2,1,4.7K,RayRailSwSense:Resistor_SMD_R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805FT4K70,Stackpole,DigiKey,RMCF0805FT4K70CT-ND,smt,Procurement reference; exact historical fitted identity not independently confirmed
+R3,1,4.7K,RayRailSwSense:Resistor_SMD_R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805FT4K70,Stackpole,DigiKey,RMCF0805FT4K70CT-ND,smt,Procurement reference; exact historical fitted identity not independently confirmed
+R4,1,2k,RayRailSwSense:LED_SMD_LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder,RMCF1206FT2K00,Stackpole,DigiKey,RMCF1206FT2K00TR-ND,smt,Owner-confirmed fitted value 2 kohm
+R5,1,82K,RayRailSwSense:Resistor_SMD_R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805FT82K0,Stackpole,DigiKey,RMCF0805FT82K0TR-ND,smt,Procurement reference; exact historical fitted identity not independently confirmed
+R6,1,4.7K,RayRailSwSense:Resistor_SMD_R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,RMCF0805FT4K70,Stackpole,DigiKey,RMCF0805FT4K70CT-ND,smt,Procurement reference; exact historical fitted identity not independently confirmed
+U1,1,BTH50030-1LUA,RayRailSwSense:MyFootprints_IFX-PG-HSOF-5-6-7-8,BTH500301LUAAUMA1,Infineon Technologies,DigiKey,448-BTH500301LUAAUMA1TR-ND,smt,Tested selection; BTH500151LUAAUMA1 alternative not separately physically verified

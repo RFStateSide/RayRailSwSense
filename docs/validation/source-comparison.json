@@ -1,0 +1,58 @@
+{
+  "original_geometry_sha256": "eba477c6c784113d2f821dde6e1e14e2c0e1961690b7bfcb454694847be3f995",
+  "release_geometry_sha256": "eba477c6c784113d2f821dde6e1e14e2c0e1961690b7bfcb454694847be3f995",
+  "geometry_scope": "Footprint positions and complete pads; segments, vias, zones including fills; board outline graphics. Metadata, stackup and silkscreen excluded.",
+  "submitted_archive_sha256": "47e605185db54c0e42b0064dd97bae5ef975385d1ab60d0450195e9d52d2a8e2",
+  "submitted_archive_exact_october_match": true,
+  "original_release_gerber_component_pad_matches": 51,
+  "original_release_drilled_holes_match": 127,
+  "original_inch_release_mm_drill_comparison_tolerance_mm": 0.003,
+  "normalized_gerber_plot_commands_equal": {
+    "F_Cu": false,
+    "B_Cu": false,
+    "F_Mask": false,
+    "B_Mask": false,
+    "F_Paste": false,
+    "B_Paste": true,
+    "Edge_Cuts": true
+  },
+  "byte_identical_to_original_submission": false,
+  "canonical_gerber_primitives_comparison": {
+    "F_Cu": {
+      "drawing_primitives_equal": true,
+      "old_primitive_count": 251,
+      "new_primitive_count": 251
+    },
+    "B_Cu": {
+      "drawing_primitives_equal": true,
+      "old_primitive_count": 132,
+      "new_primitive_count": 132
+    },
+    "F_Mask": {
+      "drawing_primitives_equal": true,
+      "old_primitive_count": 59,
+      "new_primitive_count": 59
+    },
+    "B_Mask": {
+      "drawing_primitives_equal": true,
+      "old_primitive_count": 32,
+      "new_primitive_count": 32
+    },
+    "F_Paste": {
+      "drawing_primitives_equal": true,
+      "old_primitive_count": 38,
+      "new_primitive_count": 38
+    },
+    "B_Paste": {
+      "drawing_primitives_equal": true,
+      "old_primitive_count": 0,
+      "new_primitive_count": 0
+    },
+    "Edge_Cuts": {
+      "drawing_primitives_equal": true,
+      "old_primitive_count": 4,
+      "new_primitive_count": 4
+    }
+  },
+  "comparison_note": "Ignores plot ordering, aperture numbering and metadata; compares flash aperture definitions, line endpoints, filled polygon contours, polarity and macro definitions."
+}

@@ -1,0 +1,232 @@
+(footprint "Inductor_SMD_L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+	(layer "F.Cu")
+	(descr "Inductor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
+	(tags "inductor handsolder")
+	(property "Reference" "FB1"
+		(at 0.051157 1.566877 90)
+		(layer "F.SilkS")
+		(uuid "ffe8718c-db98-4392-b062-d0803e44c77d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "BLM31PG121SN1L"
+		(at 0 1.65 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5d081d2a-15e4-4aae-a701-34276598111f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.murata.com/en-us/products/productdata/8796739698718/ENFA0006.pdf"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cab96fce-746e-40bf-8131-f6f3f4603ca0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "120 ohm at 100 MHz, 1206 bead; retained 0805 lands, see assembly guide"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "38fd8752-4e61-4110-b1c8-9b7a5434a9a4")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "Murata Electronics"
+		(at 0 0 270)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eacea981-a786-4b47-a5f4-c41d7a0c0502")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "BLM31PG121SN1L"
+		(at 0 0 270)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0a77c04d-3717-444c-8661-d426488ca4fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier" "DigiKey"
+		(at 0 0 270)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4f7e59e-5f82-4636-9bbe-297c884e9310")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Supplier_PN" "490-1056-1-ND"
+		(at 0 0 270)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4854986-906f-47f2-b464-3d731937b81c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property ki_fp_filters "Inductor_* L_* *Ferrite*")
+	(attr smd)
+	(fp_line
+		(start -0.261252 0.71)
+		(end 0.261252 0.71)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "788d11a8-a50b-4ea3-ab12-08891d754a7f")
+	)
+	(fp_line
+		(start -0.261252 -0.71)
+		(end 0.261252 -0.71)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "05d2e893-ce6e-47f4-9db8-382f6bc88f2e")
+	)
+	(fp_line
+		(start -1.85 0.95)
+		(end -1.85 -0.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fa050270-a6fb-4b0a-8ac6-716108240563")
+	)
+	(fp_line
+		(start 1.85 0.95)
+		(end -1.85 0.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e2c2e3ff-dc08-4726-b1ef-ecd6e32cba0f")
+	)
+	(fp_line
+		(start -1.85 -0.95)
+		(end 1.85 -0.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "33d69f79-ad2f-427a-91e4-294da51ec5f4")
+	)
+	(fp_line
+		(start 1.85 -0.95)
+		(end 1.85 0.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ca998995-1faf-4fc9-99ee-61d2a4f6d78b")
+	)
+	(fp_line
+		(start -1 0.6)
+		(end -1 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b6fae2ed-79e4-41c7-b904-9ee030cd9fc0")
+	)
+	(fp_line
+		(start 1 0.6)
+		(end -1 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6a589835-f0af-4415-b7b6-6a610ec3631f")
+	)
+	(fp_line
+		(start -1 -0.6)
+		(end 1 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "62e25c9a-5fed-470b-83e7-74e93cae27d7")
+	)
+	(fp_line
+		(start 1 -0.6)
+		(end 1 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "20d0cbbe-b2e2-4075-9cd6-2066c25d8525")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 90)
+		(layer "F.Fab")
+		(uuid "338db661-71b2-4722-a7d1-00187c977633")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.08)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -1.025 0 0.0)
+		(size 1.15 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.217391)
+		(uuid "070c5994-ba65-4e4d-90f0-40ab368c8825")
+	)
+	(pad "2" smd roundrect
+		(at 1.025 0 0.0)
+		(size 1.15 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.217391)
+		(uuid "4d5f87a8-e879-4813-833f-a71f8aaacccc")
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,24 @@
+{
+  "DcSwSense.kicad_sch": {
+    "sha256": "337f9a29b9e5a7fa6c9f78547189a744b3e631e6451a195ebe35f48c973aecaa",
+    "bytes": 759685
+  },
+  "DcSwSense.kicad_pcb": {
+    "sha256": "d16e223009c6e30e631bfffdd95e464e05f6fabe3cbe91aa1d17dc841618f8fe",
+    "bytes": 195958
+  },
+  "DcSwSense.kicad_pro": {
+    "sha256": "6fe0592c1a14e558d8af579293061954df891c0527b0fcc9db60c308097d98ba",
+    "bytes": 18563
+  },
+  "PCBWayOrder_W764321AXZ20.pdf": {
+    "sha256": "7e63e55d58ceef138b3ba6c32110b3b4b3b6d37403ab11263fe581bb2f390801",
+    "bytes": 46231
+  },
+  "W764321AXZ20_DcSwSense.kicad_pcb_gerber.zip": {
+    "sha256": "47e605185db54c0e42b0064dd97bae5ef975385d1ab60d0450195e9d52d2a8e2",
+    "bytes": 37118,
+    "exact_match_to_2025_10_26_archive": true,
+    "owner_confirmed_redesigned_board_order": true
+  }
+}

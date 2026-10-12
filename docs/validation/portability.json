@@ -1,0 +1,14 @@
+{
+  "kicad": "9.0.7",
+  "platform": "Windows",
+  "new_default_kicad_profile_without_owner_libraries": true,
+  "relocated_directory_with_spaces": true,
+  "project_local_libraries_resolve": true,
+  "drc_violations": 0,
+  "unconnected_items": 0,
+  "schematic_parity": 0,
+  "erc_pin_type_findings": 18,
+  "engineering_verifier_passed": true,
+  "native_linux_tested": false,
+  "first_run_note": "First invocation exited without a report during fresh profile creation; rerun with the newly created default profile succeeded."
+}
