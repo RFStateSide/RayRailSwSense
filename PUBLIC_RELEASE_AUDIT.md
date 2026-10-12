@@ -1,7 +1,8 @@
 # RayRailSwSense — Public Release Engineering Audit
 
 Prepared with OpenAI Codex. Reviewed by RF StateSide LLC.
-This is a prepared review candidate; document-by-document owner acceptance is pending.
+The owner has approved all 11 public-release documents and the distributed
+engineering package. The GitHub repository is public.
 
 ## Scope
 
@@ -68,9 +69,16 @@ footprints and approved CERN-OHL-P-2.0 for original hardware contributions.
 Applicable KiCad notices remain. Supplier records and external vendor assets
 are excluded. Official license bytes are checked against recorded provenance.
 
-This audit records automated evidence and owner-supplied history; it does not
-replace owner inspection, independent clone review, or later publication
-authorization. The package and public wording still require owner acceptance.
+The owner independently cloned the private repository on another Windows
+computer, opened and visually verified the KiCad schematic and PCB, and
+approved the distributed engineering package. After this acceptance, the owner
+made the GitHub repository public. Owner documentation acceptance, independent
+KiCad and repository review, and public GitHub publication are complete.
+
+This audit retains the automated evidence and owner-supplied history recorded
+during preparation. Acceptance and publication do not imply additional
+engineering testing or certification; the documented historical limitations
+and AS-IS disclosures remain applicable.
 
 ## Portability and Distribution
 
